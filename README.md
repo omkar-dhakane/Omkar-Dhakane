@@ -1,36 +1,46 @@
 # 👋 Hi, I'm Omkar Dhakane
 
-🎓 Diploma in Computer Engineering (Final Year)  
+🎓 Final Year Diploma Student in Computer Engineering  
+💻 Aspiring Software Developer  
 📍 Maharashtra, India  
 
 ---
 
 ## 🚀 About Me
-I am an aspiring Software Developer with strong skills in Python and a solid foundation in C and C++. I enjoy building projects that solve real-world problems and continuously improving my technical abilities.
+I am passionate about software development and problem solving. My primary focus is Python development along with a strong foundation in C and C++. I enjoy building practical projects and continuously improving my technical skills.
 
 ---
 
-## 🛠 Skills
-- Python (Primary)
-- C, C++
+## 🛠 Tech Stack
+- Python
+- C
+- C++
 - HTML (Basic)
-- Data Analysis
-- Excel & Power BI
+- Excel
+- Power BI
+- VS Code
 
 ---
 
 ## 📌 Featured Project
-### Social Media Sentiment-Based TV Show Popularity Prediction
+### 📊 TV Show Popularity Prediction using Sentiment Analysis
 - Built using Python
-- Performed sentiment analysis on social media data
-- Predicted trends and popularity
+- Analyzed social media sentiment data
+- Predicted popularity trends using data analysis techniques
+
+🔗 Repository:
+https://github.com/omkar-dhakane/tv-show-sentiment-analysis
 
 ---
 
 ## 💼 Experience
-- Data Science & Analytics Intern
+### Data Science & Analytics Intern
+- Worked on data preprocessing and analysis
+- Used Excel and Power BI for visualization
+- Gained practical exposure to real-world datasets
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/omkar-dhakane-dev
+## 📫 Connect With Me
+- LinkedIn:
+https://linkedin.com/in/omkar-dhakane-dev
