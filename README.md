@@ -111,6 +111,6 @@ Second-year B.Tech student in Artificial Intelligence & Data Science, based in M
 
 ## Connect
 
-- **LinkedIn** — [linkedin.com/in/omkar-dhakane-dev](https://www.linkedin.com/in/omkar-dhakane-dev)
+- **LinkedIn** — [linkedin.com/in/omkar-dhakane](https://www.linkedin.com/in/omkar-dhakane)
 - **Email** — [omkardhakane011@gmail.com](mailto:omkardhakane011@gmail.com)
 - **Hugging Face** — [huggingface.co/SLOP011](https://huggingface.co/SLOP011)
