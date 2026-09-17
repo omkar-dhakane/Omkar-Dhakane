@@ -12,20 +12,33 @@
 
 ## About Me
 
-Second-year B.Tech student in Artificial Intelligence & Data Science (direct second-year entry after a Diploma in Computer Engineering), based in Maharashtra, India. I learn by shipping — datasets, editors, agents, and CLIs.
+Second-year B.Tech student in Artificial Intelligence & Data Science, based in Maharashtra, India. I learn by shipping — datasets, editors, agents, and CLIs.
 
 - Working through my B.Tech in AI & DS, building real projects alongside coursework
 - Hands-on across data (Python, pandas, Power BI), ML (PyTorch, PyG), cloud (AWS, Terraform), and apps (TypeScript, Rust)
-- Two internships completed: Data Science & Analytics, and Cloud
 
 ---
 
 ## Experience
 
-| Role | What I worked on | Status |
-| --- | --- | --- |
-| **Cloud Intern** | AWS infrastructure — EC2, VPC design, Terraform-based deployments | Completed · Aug 2026 |
-| **Data Science & Analytics Intern** | Data preprocessing and analysis; Excel + Power BI reporting on real-world datasets | Completed |
+### Cloud Application Developer Intern — MIDC Skill Development Center
+*May 2026 – Aug 2026 · Pune District, Maharashtra · On-site*
+
+- Developed cloud-based applications using AWS services, REST APIs, and modern deployment workflows — hands-on exposure to production-grade software engineering practices
+- Built and integrated live API systems into the NEXUS AI Intelligence Dashboard, transitioning the project from a UI prototype to a functional, data-driven platform
+- Applied version control workflows with GitHub (branching, pull requests, commits) across collaborative development cycles
+- Documented software architecture and implementation decisions, strengthening understanding of scalable system design
+
+**Skills:** AWS · REST APIs · Python · GitHub · Cloud Application Development · Software Engineering
+
+### Data Science & Analytics Intern — ProAzure Software Solutions Pvt. Ltd.
+*Apr 2025 – Present · Remote*
+
+- Completed project-based training across core development fundamentals: debugging, code structure, and software development lifecycle (SDLC) practices
+- Implemented programming concepts in real-world project contexts, translating business requirements into working code
+- Gained exposure to professional development environments, version control practices, and team-based delivery workflows
+
+**Skills:** Python · Data Analysis · Predictive Analytics · Software Development · Debugging · SDLC
 
 ---
 
@@ -90,8 +103,8 @@ Second-year B.Tech student in Artificial Intelligence & Data Science (direct sec
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omkar-dhakane&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-dhakane&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omkar-dhakane&theme=transparent" alt="GitHub stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omkar-dhakane&theme=transparent" alt="Top languages by commit" />
 </div>
 
 ---
