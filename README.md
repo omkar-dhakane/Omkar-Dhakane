@@ -1,46 +1,103 @@
-# 👋 Hi, I'm Omkar Dhakane
+<div align="center">
 
-🎓 Final Year Diploma Student in Computer Engineering  
-💻 Aspiring Software Developer  
-📍 Maharashtra, India  
+# Hi, I'm Omkar Dhakane
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&lines=B.Tech+AI+%26+Data+Science+Student;Building+with+Data%2C+Cloud+%26+AI;GNNs%2C+Agents+%26+Real-World+Datasets" alt="Typing SVG" /></a>
 
-## 🚀 About Me
-I am passionate about software development and problem solving. My primary focus is Python development along with a strong foundation in C and C++. I enjoy building practical projects and continuously improving my technical skills.
+**B.Tech in Artificial Intelligence & Data Science** · Maharashtra, India
 
----
-
-## 🛠 Tech Stack
-- Python
-- C
-- C++
-- HTML (Basic)
-- Excel
-- Power BI
-- VS Code
+</div>
 
 ---
 
-## 📌 Featured Project
-### 📊 TV Show Popularity Prediction using Sentiment Analysis
-- Built using Python
-- Analyzed social media sentiment data
-- Predicted popularity trends using data analysis techniques
+## About Me
 
-🔗 Repository:
-https://github.com/omkar-dhakane/tv-show-sentiment-analysis
+Second-year B.Tech student in Artificial Intelligence & Data Science (direct second-year entry after a Diploma in Computer Engineering), based in Maharashtra, India. I learn by shipping — datasets, editors, agents, and CLIs.
 
----
-
-## 💼 Experience
-### Data Science & Analytics Intern
-- Worked on data preprocessing and analysis
-- Used Excel and Power BI for visualization
-- Gained practical exposure to real-world datasets
+- Working through my B.Tech in AI & DS, building real projects alongside coursework
+- Hands-on across data (Python, pandas, Power BI), ML (PyTorch, PyG), cloud (AWS, Terraform), and apps (TypeScript, Rust)
+- Two internships completed: Data Science & Analytics, and Cloud
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn:
-https://linkedin.com/in/omkar-dhakane-dev
+## Experience
+
+| Role | What I worked on | Status |
+| --- | --- | --- |
+| **Cloud Intern** | AWS infrastructure — EC2, VPC design, Terraform-based deployments | Completed · Aug 2026 |
+| **Data Science & Analytics Intern** | Data preprocessing and analysis; Excel + Power BI reporting on real-world datasets | Completed |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Data & ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Tools & Creative**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+**How I build:** AI-augmented development is part of my workflow — I work with OpenCode, Claude Code, Codex, Antigravity, and DeepSeek harnesses as pair programmers, and I make sure I understand what ships.
+
+---
+
+## Featured Projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**flywire-gnn**](https://github.com/omkar-dhakane/flywire-gnn) | The FlyWire FAFB brain connectome as a ready-to-train PyTorch Geometric dataset — 139,255 neurons, 2.7M edges, 9-class node classification, with real CPU baselines (MLP 0.9851 / GraphSAGE 0.9812 / GCN 0.9166). Published on [Hugging Face](https://huggingface.co/datasets/SLOP011/flywire-fafb-connectome). | Python · PyTorch Geometric |
+| [**LoomIDE**](https://github.com/omkar-dhakane/LoomIDE) | AI-native desktop code editor — Tauri + Rust core, Monaco editor, generic LSP integration, and a provider-agnostic AI router (OpenAI / Anthropic / Ollama). | TypeScript · Rust · Tauri |
+| [**keeper**](https://github.com/omkar-dhakane/keeper) | Autonomous, safety-first GitHub repository maintainer — triages issues, writes code, runs tests, opens PRs. By design it can never merge, force-push, or touch protected branches. | Python · GitHub API |
+| [**privacy-control-center**](https://github.com/omkar-dhakane/privacy-control-center) | Find where your personal data is exposed online and remove it — data-broker opt-outs, account deletion, and a DMCA request generator. Local-first, self-search only. | JavaScript |
+| [**lumen**](https://github.com/omkar-dhakane/lumen) | Local-first CLI that keeps an inspectable model of your values, goals, and decisions — decision journal, past-self retrieval, value-drift checks. | Python |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omkar-dhakane&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-dhakane&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
+
+---
+
+## Connect
+
+- **LinkedIn** — [linkedin.com/in/omkar-dhakane-dev](https://www.linkedin.com/in/omkar-dhakane-dev)
+- **Email** — [omkardhakane011@gmail.com](mailto:omkardhakane011@gmail.com)
+- **Hugging Face** — [huggingface.co/SLOP011](https://huggingface.co/SLOP011)
